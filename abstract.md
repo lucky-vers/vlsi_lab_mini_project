@@ -3,7 +3,7 @@ title: "IEEE 754 32-bit Floating Point Multiplier"
 author:
   - Lakshit Verma (230959210)
   - Pranav Saini (230959212)
-date: "January 31, 2025"
+date: "February 3, 2025"
 geometry: margin=3cm
 ...
 
